@@ -1,0 +1,46 @@
+<!DOCTYPE filmotheque SYSTEM "films.dtd">
+<filmotheque>
+    <film id="film1">
+        <titre>The Big Lebowski</titre>
+        <realisateur>Joel Coen, Ethan Coen</realisateur>
+        <acteurs>
+            <acteur>Jeff Bridges</acteur>
+            <acteur>John Goodman</acteur>
+            <acteur>Julianne Moore</acteur>
+        </acteurs>
+        <producteurs>
+            <producteur>Joel Coen</producteur>
+            <producteur>Ethan Coen</producteur>
+        </producteurs>
+        <annee>1998</annee>
+        <resume>Jeffrey Lebowski, dit le "Dude," se retrouve entraîné dans une série d'événements étranges après qu'on lui confonde avec un autre homme du même nom.</resume>
+        <avis>Un film culte rempli d'humour.</avis>
+    </film>
+    <film id="film2">
+        <titre>Las Vegas Parano</titre>
+        <realisateur>Terry Gilliam</realisateur>
+        <acteurs>
+            <acteur>Johnny Depp</acteur>
+            <acteur>Benicio Del Toro</acteur>
+            <acteur>Tobey Maguire</acteur>
+        </acteurs>
+        <annee>1998</annee>
+        <resume>Deux amis partent à Las Vegas pour un voyage hallucinant à la recherche du rêve américain.</resume>
+        <avis>Un film fou.</avis>
+    </film>
+    <participant id="participant1">
+        <nom>Joel Coen</nom>
+        <date_naissance>29 novembre 1954</date_naissance>
+        <fonctions>realisateur, Producteur</fonctions>
+    </participant>
+    <participant id="participant2">
+        <nom>Ethan Coen</nom>
+        <date_naissance>21 septembre 1957</date_naissance>
+        <fonctions>realisateur, Producteur</fonctions>
+    </participant>
+    <participant id="participant3">
+        <nom>Terry Gilliam</nom>
+        <date_naissance>22 novembre 1940</date_naissance>
+        <fonctions>realisateur</fonctions>
+    </participant>
+</filmotheque>

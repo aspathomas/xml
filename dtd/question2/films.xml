@@ -1,0 +1,45 @@
+<!DOCTYPE filmotheque SYSTEM "films.dtd">
+<filmotheque>
+    <film id="film1">
+        <titre soustitre="Fury Road">The Big Lebowski</titre>
+        <realisateur>Joel Coen, Ethan Coen</realisateur>
+        <acteurs>
+            <acteur>Jeff Bridges</acteur>
+            <acteur>John Goodman</acteur>
+            <acteur>Julianne Moore</acteur>
+        </acteurs>
+        <producteurs>
+            <producteur>Joel Coen</producteur>
+            <producteur>Ethan Coen</producteur>
+        </producteurs>
+        <annee>2021</annee>
+        <resume>Jeffrey Lebowski, dit le "Dude," se retrouve entraîné dans une série d'événements étranges après qu'on lui confonde avec un autre homme du même nom.</resume>
+        <avis>Un film culte rempli d'humour.</avis>
+    </film>
+    <film id="film2">
+        <titre soustitre="Fury Road">Las Vegas Parano</titre>
+        <realisateur>Terry Gilliam</realisateur>
+        <acteurs>
+            <acteur>John Goodman</acteur>
+            <acteur>Julianne Moore</acteur>
+        </acteurs>
+        <annee>2022</annee>
+        <resume>Deux amis partent à Las Vegas pour un voyage hallucinant à la recherche du rêve américain.</resume>
+        <avis>Un film fou.</avis>
+    </film>
+    <participant id="participant1">
+        <nom>Joel Coen</nom>
+        <date_naissance>29 novembre 1954</date_naissance>
+        <wikipedia></wikipedia>
+    </participant>
+    <participant id="participant2">
+        <nom>Ethan Coen</nom>
+        <date_naissance>21 septembre 1957</date_naissance>
+        <wikipedia></wikipedia>
+    </participant>
+    <participant id="participant3">
+        <nom>Terry Gilliam</nom>
+        <date_naissance>22 novembre 1940</date_naissance>
+        <wikipedia></wikipedia>
+    </participant>
+</filmotheque>

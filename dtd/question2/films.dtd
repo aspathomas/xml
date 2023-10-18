@@ -1,0 +1,28 @@
+<!ELEMENT filmotheque (film+, participant*)>
+
+<!ELEMENT film (titre, realisateur, acteurs?, producteurs?, annee, resume, avis?)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT soustitre (#PCDATA)>
+<!ELEMENT realisateur (#PCDATA)>
+<!ELEMENT acteurs (acteur+)>
+<!ELEMENT acteur (#PCDATA)>
+<!ELEMENT producteurs (producteur+)>
+<!ELEMENT producteur (#PCDATA)>
+<!ELEMENT annee (#PCDATA)>
+<!ELEMENT resume (#PCDATA)>
+<!ELEMENT avis (#PCDATA)>
+
+<!ELEMENT participant (nom, date_naissance?, wikipedia?)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT date_naissance (#PCDATA)>
+<!ELEMENT wikipedia (#PCDATA)>
+<!ELEMENT association (film*, participant*)>
+
+<!ATTLIST film
+    id ID #REQUIRED>
+
+<!ATTLIST participant
+    id ID #REQUIRED>
+
+<!ATTLIST film annee (2023|2022|2021|avant_2021|inconnue) "inconnu">
+<!ATTLIST titre soustitre CDATA #IMPLIED>
