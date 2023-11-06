@@ -1,0 +1,122 @@
+<LIVRES>
+<LIVRE titre="Tintin au Congo">
+<GENRE>BD</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Herge</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="5">Tintin</PERSONAGE>
+<PERSONAGE pers="10">Milou</PERSONAGE>
+<PERSONAGE pers="15">Capitaine Haddock</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="A tale of two cities">
+<GENRE>Fiction historique</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Dickens</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="109">Lucie Manette</PERSONAGE>
+<PERSONAGE pers="110">Sydney Carton</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="The Alchemist">
+<GENRE>Roman</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Coelho</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="202">Santiago</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Les Misérables">
+<GENRE>Littérature</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Hugo</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="14">Cosette</PERSONAGE>
+<PERSONAGE pers="96">Jean Valjean</PERSONAGE>
+<PERSONAGE pers="97">Gavroche</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Veronika décide de mourire">
+<GENRE>Roman</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Coelho</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="18">Veronika</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Astérix et Cléopatre">
+<GENRE>BD</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Goscinny</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="20">Axterix</PERSONAGE>
+<PERSONAGE pers="21">Cléopatre</PERSONAGE>
+<PERSONAGE pers="22">Obelix</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Simpsons Comics">
+<GENRE>BD</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Groeming</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="23">Homere</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="La première nuit">
+<GENRE>Roman</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Levy</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="24">Adrian</PERSONAGE>
+<PERSONAGE pers="25">Keira</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Psychologie de la vie quotidienne">
+<GENRE>Psychologie</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Freud</AUTEUR>
+<PERSONAGES> </PERSONAGES>
+</LIVRE>
+<LIVRE titre="Professional C++">
+<GENRE>informatics</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Gregorie</AUTEUR>
+<PERSONAGES> </PERSONAGES>
+</LIVRE>
+<LIVRE titre="le corps humain">
+<GENRE>Sciences</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Brewer</AUTEUR>
+<PERSONAGES> </PERSONAGES>
+</LIVRE>
+<LIVRE titre="Men search for meaning">
+<GENRE>Psychologie</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Viktor</AUTEUR>
+<PERSONAGES> </PERSONAGES>
+</LIVRE>
+<LIVRE titre="The Ego and the ID">
+<GENRE>Psychologie</GENRE>
+<LANG>EN</LANG>
+<AUTEUR>Freud</AUTEUR>
+<PERSONAGES> </PERSONAGES>
+</LIVRE>
+<LIVRE titre="La femme au miroir">
+<GENRE>Roman</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Scmitt</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="27">Anne</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+<LIVRE titre="Mort sur le Nil">
+<GENRE>Policier</GENRE>
+<LANG>FR</LANG>
+<AUTEUR>Christie</AUTEUR>
+<PERSONAGES>
+<PERSONAGE pers="35">Hercule Poirot</PERSONAGE>
+<PERSONAGE pers="36">Simon Doyle</PERSONAGE>
+<PERSONAGE pers="37">Linett Ridgeway</PERSONAGE>
+</PERSONAGES>
+</LIVRE>
+</LIVRES>
