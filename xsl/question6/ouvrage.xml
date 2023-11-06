@@ -11,7 +11,7 @@
 <diametre unit="diamètre terrestre">0.4</diametre>
 </planete>
 <planete type="tellurique">
-<nom>Vénus</nom>.
+<nom>Vénus</nom>
 <masse unit="masse terrestre">0.8</masse>
 <diametre unit="diamètre terrestre">0.9</diametre>
 </planete>
