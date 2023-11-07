@@ -1,0 +1,26 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1000" height="1000" version="1.1"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<image x="0" y="0" width="1000" height="1000" xlink:href="./ciel-etoile.jpg" clip-path="url(#clip)">
+    <clipPath id="clip">
+      <rect x="0" y="0" width="1000" height="1000" />
+    </clipPath>
+  </image>
+ <polygon id="myPolygon" points="650,500 546,643 378,587 380,410 549,358" style="fill: yellow;"/>
+
+   <polygon points="650,500 546,643 783,706"
+           style="fill: yellow;"/>
+ <polygon points="546,643 378,587 390,832"
+           style="fill: yellow;"/>
+ <polygon points="378,587 380,410 150,497"
+           style="fill: yellow;"/>
+ <polygon points="380,410 549,358 396,166"
+           style="fill: yellow;"/>
+  <polygon points="549,358 650,500 787,299 "
+           style="fill: yellow;"/>
+        
+<circle cx="500" cy="500" r="100" fill="cyan" />
+<circle cx="622" cy="881" r="20" fill="red" />
+</svg>
