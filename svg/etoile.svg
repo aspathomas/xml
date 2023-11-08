@@ -20,7 +20,26 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
            style="fill: yellow;"/>
   <polygon points="549,358 650,500 787,299 "
            style="fill: yellow;"/>
+
+<text x="500" y="500" font-family="Arial" font-size="50" fill="black">α</text>
+<text x="702" y="647" font-family="Arial" font-size="50" fill="black">β</text>
+<text x="421" y="737" font-family="Arial" font-size="50" fill="black">γ</text>
+<text x="250" y="498" font-family="Arial" font-size="50" fill="black">ε</text>
+<text x="426" y="261" font-family="Arial" font-size="50" fill="black">φ</text>
+<text x="705" y="357" font-family="Arial" font-size="50" fill="black">σ</text>
+
         
 <circle cx="500" cy="500" r="100" fill="cyan" />
-<circle cx="622" cy="881" r="20" fill="red" />
+<circle cx="950" cy="500" r="20" fill="red" >
+    <animate attributeName="cx" begin="0s" dur="3s" repeatCount="indefinite"
+           values="864; 637; 358; 134; 50; 139; 367; 367; 646; 869; 950;" />
+    <animate attributeName="cy" begin="0s" dur="3s" repeatCount="indefinite"
+        values="765; 929; 927; 762; 496; 231; 70; 74; 245; 500;" />
+</circle>
+<circle cx="550" cy="500" r="10" fill="blue" >
+    <animate attributeName="cx" begin="0s" dur="0.5s" repeatCount="indefinite"
+           values="516; 460; 459; 515; 550;" />
+    <animate attributeName="cy" begin="0s" dur="0.5s" repeatCount="indefinite"
+        values="453; 470; 529; 548; 500;" />
+</circle>
 </svg>
